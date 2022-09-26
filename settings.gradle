@@ -1,0 +1,2 @@
+rootProject.name='Katunda Classification Demo'
+include ':app'
