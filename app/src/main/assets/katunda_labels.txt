@@ -1,0 +1,7 @@
+Fruit_Brown_spot
+Fruit_Healthy
+Fruit_Woodiness
+Leaves_Brown_spot
+Leaves_Healthy
+Leaves_Woodiness
+UNKNOWN
